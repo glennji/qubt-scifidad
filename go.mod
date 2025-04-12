@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/glennji/qubt-scifidad
 
 go 1.24.2
 
