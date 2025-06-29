@@ -1,14 +1,22 @@
-############################
-## Navbar
-############################
-
 main:
-- name: Home
-  url: /
-  weight: 10
-- name: Blog
-  url: /blog/
-  weight: 20
-- name: About
+#- name: home
+#  url: /
+#  weight: 10
+- name: who
   url: /about/
+  weight: 20
+- name: projects
+  url: /projects/
+  weight: 25
+- name: blog
+  url: /blog/
   weight: 30
+- name: reviews
+  url: /reviews/
+  weight: 30
+#- name: lore
+#  url: /lore/
+#  weight: 40
+#- name: tech
+#  url: /projects/
+#  weight: 50

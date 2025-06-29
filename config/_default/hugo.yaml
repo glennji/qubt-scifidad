@@ -1,14 +1,5 @@
-############################
-## CHANGE THESE
-############################
-
-baseURL: "https://glennji.github.io/qubt-scifidad"
-title: qubt-scifidad
-
-############################
-## MISC
-############################
-
+baseURL: "https://scifidad.com"
+title: "@scifidad.com"
 enableEmoji: true
 disableKinds: ["taxonomy", "term"]
 languageCode: "en-us"

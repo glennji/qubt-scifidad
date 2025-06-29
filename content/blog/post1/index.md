@@ -1,33 +1,46 @@
 ---
-title: Blog Post with Inline Images
-subtitle: "Blog post subtitle :zap:"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-date: 2023-11-24
+title: It's dangerous to go alone
+subtitle: "Yep, I'm starting a 'blog in 2025 :fire:"
+summary: >
+  With so many trips around Sol, I've read and seen a lot, and had time to 
+  think about where we might be headed as a species. I'd like to share some 
+  of that, as well as the great pieces of fiction that have been created.
+date: 2025-04-12
 cardimage: photo1_card.jpeg
-featureimage: photo1.jpeg
-caption: Image caption
+featureimage: photo1.png
+caption: An AI-generated spaceman stares into your soul
 authors:
-  - Christian: author.jpeg
+  - scifidad: author.jpg
 ---
-Use the shortcode "figArray" to add images to your blog post. Add your images to a subfolder. Call the figArray shortcode using the following syntax:
 
-```
-{{</* figArray subfolder="<subfoldername>" figCaption="Some caption" numCols=2 */>}}
-```
-Both "figCaption" and "numCols" are optional. The shortcode will try to guess the best number of columns to use for the array of figures if "numCols" is not passed.
-You will need one subfolder containing images per call to the shortcode. The image files need to be one of the following types: png, jpg, jpeg or webp.
+## Starting a weblog? Really?
 
-{{< figArray subfolder="images" figCaption="A nice figure caption :wave:" >}}
+Let's face it: I'm old (for a pre-immortal). I _used_ to write
+semi-regularly for no other reason than to see it up online and get the
+occasional comment from friends and family&mdash;what the kids in this timeline
+call "engagement".
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere :zap:.
+With so many trips around Sol, I've read and seen a lot, and had time to 
+think about where we might be headed as a species. I'd like to share some of 
+that, as well as the great pieces of fiction that have been and continue to 
+be created &mdash; what we make, we first imagine after all. Society has a 
+short memory too, so for every new vision of the future there is another 
+from an early time: flawed, mistaken, predictive, glorious, terrifying. And 
+maybe you haven't found it yet!
 
-**Heading**
-- List item 1
-- List item 2
-- List item 3
+## Join me!
 
-Cras ligula velit, aliquet ac orci dapibus, molestie ultricies libero. Donec at bibendum est. Phasellus vulputate dapibus quam vel accumsan. Curabitur at felis euismod, lobortis urna id, lobortis dolor. Cras tortor ligula, euismod quis lacus faucibus, condimentum fringilla dolor. Mauris in maximus nisi. Phasellus facilisis lacus quis mi cursus, a ornare mi maximus. Nullam nunc lacus, tincidunt varius risus nec, pellentesque vulputate ligula. Etiam id purus et tortor porta mattis. Donec id sapien nulla. Vivamus at malesuada tellus, id ultricies ante. Maecenas ullamcorper mi massa, at rutrum risus aliquet a. Donec sem tortor, molestie quis ex a, faucibus commodo augue. Morbi convallis sem vel tellus facilisis, et sodales felis consequat. Aliquam ut ante tristique, volutpat lectus vestibulum, egestas sapien.
+Whether you're a long-time fan or new to exploring strange new worlds, I’ve got
+you covered with news, reviews, deep-dives, play-throughs and more from across
+the galaxy of scifi media. From classic novels and futuristic films to
+cutting-edge video games and mind-bending TV series, I love stories, ideas, and
+technologies that push the boundaries of imagination.
 
-Donec tellus est, faucibus eget ultricies ac, posuere non augue. Fusce ultrices lectus quis nunc lacinia, non tincidunt lectus ultrices. Morbi sodales nisi at felis luctus, eu convallis tortor commodo. Morbi tristique nibh neque, vel tristique dolor laoreet eget. Phasellus felis erat, mattis at suscipit id, faucibus in dolor. In vitae odio at lectus tincidunt dignissim. Fusce risus nisl, hendrerit a ultricies vitae, porta id sapien. Nam elit nunc, hendrerit ut sem quis, ultrices varius leo. Nullam eget lectus in sapien venenatis iaculis at at turpis. Etiam iaculis magna porttitor augue tempus suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam suscipit nibh leo, in pellentesque urna luctus et. Duis diam ipsum, posuere nec tellus sit amet, dignissim feugiat massa. Etiam ut sollicitudin lorem. Quisque commodo libero non mauris viverra malesuada. Morbi vitae auctor felis.
+Join me as we chart the unknown, celebrating the creators and communities that
+bring these universes to life. Whether we’re dissecting the ethical dilemmas of
+advanced AI, exploring the speculative science behind interstellar travel, or
+marvelling at the artistry of a perfectly crafted alien world, there’s always
+something new to invent and/or discover.
 
-Maecenas ac dignissim dolor. Sed vitae nisl vel ante rutrum tincidunt ac et diam. Integer id dignissim quam. Vestibulum quis enim sit amet tellus tincidunt sagittis ut vitae nunc. Sed hendrerit, quam ut fermentum imperdiet, augue purus cursus felis, in ultricies elit mauris in risus. Morbi hendrerit imperdiet vehicula. Etiam porttitor magna eu quam laoreet ullamcorper. Etiam a erat ante. Curabitur pharetra, lacus in porttitor cursus, libero lacus consectetur dui, sit amet auctor tellus magna et enim. Pellentesque tristique molestie fringilla. Vivamus sit amet tincidunt quam. Morbi eu nisi quam. Nunc ultrices vel sem sit amet aliquam.
+Together we can uncover hidden gems, revisit beloved classics, and ponder what
+kind of future we want on this pale blue dot—and beyond.
